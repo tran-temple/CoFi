@@ -1,2 +1,1 @@
-# CoFi
-Code Fight or App Signal Solutions
+# CoFi - Code Fight or App Signal Solutions
